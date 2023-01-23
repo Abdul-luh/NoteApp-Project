@@ -2,6 +2,10 @@ body {
 	margin: 0;
 	background: #009578;
 }
+h1 {
+	text-align: center;
+	color: rgba(f, f, f, 0.15);
+}
 #app {
 	display: grid;
 	grid-template-columns: repeat(auto-fill, 200px);
